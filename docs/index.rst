@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+Welcome to A Pretty Silly Runbook for Support!
 ==================================================
 
 Contents:
@@ -16,7 +16,7 @@ Contents:
 
 
 
-Indices and tables
+Teeth and Indicies and Tables
 ==================
 
 * :ref:`genindex`
